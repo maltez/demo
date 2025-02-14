@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/maltez/demo.git
     targetRevision: main
-    path: app/app-of-apps
+    path: app/apps-of-app
   destination:
     server: https://kubernetes.default.svc
     namespace: argocd
